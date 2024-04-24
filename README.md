@@ -39,5 +39,13 @@ Public Data About Jail Deaths in North Carolina Organized by Counties
 ----
 
 ## Data Visualization
+- The data visualization seen below is a pie chart that lays out the frequency of different causes of death in Wake County. The causes of death are separated by color, with a color key included on the top right for the viewer to be able to observe the different causes.
+       No information or data was altered in the creation of this visualization. Information for Wake County was pulled out from the North Carolina Jail Deaths raw dataset.
+  
+- This pie chart was created using Tableau software, which I downloaded onto my computer using [this link.](https://www.tableau.com/products/desktop/download)
+        Tableau allows users to download a two-week free trial, otherwise it will require a paid account to download this software.
+
+<img width="1022" alt="Screen Shot 2024-04-24 at 2 41 49 PM" src="https://github.com/arianna-cuevas/North-Carolina-Jail-Deaths/assets/167785479/d220b40e-2ed7-4caf-b55a-3e3eaacca63c">
+
 
 
