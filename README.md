@@ -45,7 +45,7 @@ Public Data About Jail Deaths in North Carolina Organized by Counties
 - This pie chart was created using Tableau software, which I downloaded onto my computer using [this link.](https://www.tableau.com/products/desktop/download)
         Tableau allows users to download a two-week free trial, otherwise it will require a paid account to download this software.
 
-<img width="1022" alt="Screen Shot 2024-04-24 at 2 41 49 PM" src="https://github.com/arianna-cuevas/North-Carolina-Jail-Deaths/assets/167785479/d220b40e-2ed7-4caf-b55a-3e3eaacca63c">
+<img width="1120" alt="Screen Shot 2024-04-24 at 2 27 14 PM" src="https://github.com/arianna-cuevas/North-Carolina-Jail-Deaths/assets/167785479/95707d99-52bc-4af5-b0b7-c8f411d464d1">
 
 
 
